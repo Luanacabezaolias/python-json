@@ -8,5 +8,5 @@ dicionario2 = {'codigo': 456, 'nome': 'Camila Padalino', 'idade': 17, 'altura': 
 
 lista = [ dicionario1, dicionario2]
 with open('dados.json', 'w') as arquivo:
-    json.dump(lista, arquivo, indent=4, sort_keys=True)
+    json.dump(lista, arquivo, indent=4, sort_keys=True, encoding='utf-8')
 
