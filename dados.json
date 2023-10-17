@@ -1,0 +1,12 @@
+{
+    "altura": 1.6,
+    "codigo": 123,
+    "idade": 18,
+    "nome": "Luana Cabezaolias",
+    "notas": [
+        9,
+        8,
+        8.5,
+        9.8
+    ]
+}
